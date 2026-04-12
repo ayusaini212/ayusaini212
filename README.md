@@ -1,5 +1,12 @@
-# 💫 About Me:
-i am currently working on sales dashboard,<br>want to collaborate on linkdin with hiring managers and recruiters to get a job,<br>right now learning sql and power bi with business understanding and analytics,<br>i''ve build a dashboard using excel about inventory analysis and profitability insights,<br> 
+# 👋 Hi, I'm Ayush Saini
+I transform raw data into strategic business decisions. I specialize in building high-performance dashboards that optimize Working Capital, reduce Holding Costs, and identify Profitability Trends.
+🔭 Current Focus: Advanced Business Analytics & Inventory Optimization.
+
+⚡ Core Skills: Advanced Excel (VLOOKUP, XLOOKUP, Pivot, Power Query), Dashboard Design, and Financial Modeling.
+
+📈 Project Highlight: Developed a dynamic inventory system managing ₹95L+ in stock value, achieving a 31.5% average margin through data-driven restocking.
+
+📍 Targeting: Operations Analyst roles in Gurgaon.
 
 
 ## 🌐 Socials:
