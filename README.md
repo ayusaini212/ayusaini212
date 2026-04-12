@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Ayush Saini
 I transform raw data into strategic business decisions. I specialize in building high-performance dashboards that optimize Working Capital, reduce Holding Costs, and identify Profitability Trends.
+
 🔭 Current Focus: Advanced Business Analytics & Inventory Optimization.
 
 ⚡ Core Skills: Advanced Excel (VLOOKUP, XLOOKUP, Pivot, Power Query), Dashboard Design, and Financial Modeling.
